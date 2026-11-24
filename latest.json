@@ -1,0 +1,24 @@
+{
+  "version": "0.7.1",
+  "released": "2026-11-24T05:01:46.451Z",
+  "notes": "Self-updating from this repository; everything from 0.7.0.",
+  "size": 123679120,
+  "sha256": "d4c3ae70d40da8bd44d4ae1ce418793b6d35de7529f34ab5fb8ef5719f20f05d",
+  "parts": [
+    {
+      "path": "versions/0.7.1/Prime-for-Mac.zip.part00",
+      "size": 52428800,
+      "sha256": "aa2244f5b168803bbb0b73434e5f6eedbfde87b8f2f49657f3a9dd77f6fcaab6"
+    },
+    {
+      "path": "versions/0.7.1/Prime-for-Mac.zip.part01",
+      "size": 52428800,
+      "sha256": "551bb0cc96bebc817d8fa5e573d0fe2c676b0e6cd06819c474cfa0b8ee2cb2c5"
+    },
+    {
+      "path": "versions/0.7.1/Prime-for-Mac.zip.part02",
+      "size": 18821520,
+      "sha256": "739d3a39f4f7482104bebdb74e6a1e4a6406ff82d5a2a105cfc478278a09fcc2"
+    }
+  ]
+}
