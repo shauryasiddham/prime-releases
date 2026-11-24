@@ -1,24 +1,24 @@
 {
-  "version": "0.8.1",
-  "released": "2026-11-24T07:17:42.286Z",
-  "notes": "Faster assistant that answers questions, researches the web with sources, and acts in the browser.",
-  "size": 123696320,
-  "sha256": "2d407204868292118245f905445a8dbf00fb5be4f47d2f4c25b47e0d9f2324ad",
+  "version": "0.8.2",
+  "released": "2026-11-24T07:32:24.818Z",
+  "notes": "Sign-in pages can open desktop apps again (Open “App”? prompt).",
+  "size": 123697617,
+  "sha256": "77314f71675736d51c3e9ef328cbe08c6ae4e6a918a50b0d1b17f171d87cca21",
   "parts": [
     {
-      "path": "versions/0.8.1/Prime-for-Mac.zip.part00",
+      "path": "versions/0.8.2/Prime-for-Mac.zip.part00",
       "size": 52428800,
-      "sha256": "66cfe70779df025609b1b398528cb0f71c75ed8c1bad3143b89c61fbb9aca439"
+      "sha256": "1106b15813428a8c2481c0f3bbd31ab30ca4dae426b14c9d3ce6252def2f787d"
     },
     {
-      "path": "versions/0.8.1/Prime-for-Mac.zip.part01",
+      "path": "versions/0.8.2/Prime-for-Mac.zip.part01",
       "size": 52428800,
-      "sha256": "d81419962a6cf604462d62f7dedb54231556cfa721ee82a1373c267ac0d38999"
+      "sha256": "1a59467a8aae5ce7184c17c8005b0d47131a2daa7174bef3c96a64bda241983a"
     },
     {
-      "path": "versions/0.8.1/Prime-for-Mac.zip.part02",
-      "size": 18838720,
-      "sha256": "7583bef7893b4687643520c51c99a60a531b82224f1cb00474bef9b5495c1e5d"
+      "path": "versions/0.8.2/Prime-for-Mac.zip.part02",
+      "size": 18840017,
+      "sha256": "13d97116931260690c66a9882c6c1f3dc13d7971e2b232165d6ca21b00801ebc"
     }
   ]
 }
