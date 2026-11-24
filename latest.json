@@ -1,24 +1,24 @@
 {
-  "version": "0.7.1",
-  "released": "2026-11-24T05:01:46.451Z",
-  "notes": "Self-updating from this repository; everything from 0.7.0.",
-  "size": 123679120,
-  "sha256": "d4c3ae70d40da8bd44d4ae1ce418793b6d35de7529f34ab5fb8ef5719f20f05d",
+  "version": "0.8.0",
+  "released": "2026-11-24T06:42:11.331Z",
+  "notes": "The assistant can use the browser for you (free, local Qwen 3.5); video player settings.",
+  "size": 123692287,
+  "sha256": "abee622645aa579a51ffb16173d4a850a276fe0c251bb20609bb70b1f78d967b",
   "parts": [
     {
-      "path": "versions/0.7.1/Prime-for-Mac.zip.part00",
+      "path": "versions/0.8.0/Prime-for-Mac.zip.part00",
       "size": 52428800,
-      "sha256": "aa2244f5b168803bbb0b73434e5f6eedbfde87b8f2f49657f3a9dd77f6fcaab6"
+      "sha256": "9ded5ea308711b8c585cb25f3b94dea328f68e885f16964bf29c09ca26ab3c7b"
     },
     {
-      "path": "versions/0.7.1/Prime-for-Mac.zip.part01",
+      "path": "versions/0.8.0/Prime-for-Mac.zip.part01",
       "size": 52428800,
-      "sha256": "551bb0cc96bebc817d8fa5e573d0fe2c676b0e6cd06819c474cfa0b8ee2cb2c5"
+      "sha256": "15f82b41d8ad1daeb0f69517a4a49e069be016d961913a8563a6f1da85935a33"
     },
     {
-      "path": "versions/0.7.1/Prime-for-Mac.zip.part02",
-      "size": 18821520,
-      "sha256": "739d3a39f4f7482104bebdb74e6a1e4a6406ff82d5a2a105cfc478278a09fcc2"
+      "path": "versions/0.8.0/Prime-for-Mac.zip.part02",
+      "size": 18834687,
+      "sha256": "4fae1aa8f3f5f751697b5df5f4cf8197985b42072c2c9100a42b0dcc5b349464"
     }
   ]
 }
