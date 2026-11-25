@@ -1,24 +1,24 @@
 {
-  "version": "0.8.2",
-  "released": "2026-11-24T07:32:24.818Z",
-  "notes": "Sign-in pages can open desktop apps again (Open “App”? prompt).",
-  "size": 123697617,
-  "sha256": "77314f71675736d51c3e9ef328cbe08c6ae4e6a918a50b0d1b17f171d87cca21",
+  "version": "0.8.3",
+  "released": "2026-11-25T06:31:57.215Z",
+  "notes": "SponsorBlock's skip button now shows on YouTube.",
+  "size": 123698381,
+  "sha256": "fd50bf167037b6aa3eaedad90eaeac7d145b789a54d0c5e05793cd634dc1384a",
   "parts": [
     {
-      "path": "versions/0.8.2/Prime-for-Mac.zip.part00",
+      "path": "versions/0.8.3/Prime-for-Mac.zip.part00",
       "size": 52428800,
-      "sha256": "1106b15813428a8c2481c0f3bbd31ab30ca4dae426b14c9d3ce6252def2f787d"
+      "sha256": "32d4919a5ed38def6a76326096251cbcbb2bb711ad9a97f23807fb25c37bbaa2"
     },
     {
-      "path": "versions/0.8.2/Prime-for-Mac.zip.part01",
+      "path": "versions/0.8.3/Prime-for-Mac.zip.part01",
       "size": 52428800,
-      "sha256": "1a59467a8aae5ce7184c17c8005b0d47131a2daa7174bef3c96a64bda241983a"
+      "sha256": "18613455764fc2ec8de0c528059f3581d6090610525cf5e77c89d04f921cc3f7"
     },
     {
-      "path": "versions/0.8.2/Prime-for-Mac.zip.part02",
-      "size": 18840017,
-      "sha256": "13d97116931260690c66a9882c6c1f3dc13d7971e2b232165d6ca21b00801ebc"
+      "path": "versions/0.8.3/Prime-for-Mac.zip.part02",
+      "size": 18840781,
+      "sha256": "b0cf5f75be33d1ef75ad6bf3fa808ecff99ec5b3bae561d23d249ed9ac7d02db"
     }
   ]
 }
