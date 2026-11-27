@@ -1,24 +1,24 @@
 {
-  "version": "0.9.0",
-  "released": "2026-11-27T06:03:51.647Z",
-  "notes": "Claude is now in Prime: add the official Claude in Chrome extension and press ⌘E. The local AI assistant is removed.",
-  "size": 123678043,
-  "sha256": "4ff0d90e692dd57f0d64c3369bbe710eb12a9a8c5b6416835e56d48e0355d2d8",
+  "version": "0.9.1",
+  "released": "2026-11-27T07:00:18.142Z",
+  "notes": "Fixes Claude saying it can't reach Claude in Chrome after you sign in. Settings → Claude has a new Copy report button if something still goes wrong.",
+  "size": 123679759,
+  "sha256": "85c0d9be9234ef444f389e417b4a5caa717e6a82b6c92a03d2fcf6f38e1d8d7c",
   "parts": [
     {
-      "path": "versions/0.9.0/Prime-for-Mac.zip.part00",
+      "path": "versions/0.9.1/Prime-for-Mac.zip.part00",
       "size": 52428800,
-      "sha256": "aa0c5a49c8663d7d953bb7e929fd22999f80a6817303930f8d021533a26dc03a"
+      "sha256": "1b41ed54993caebdd29f0012f412850abc0622f234eedc460a66a065d4759e24"
     },
     {
-      "path": "versions/0.9.0/Prime-for-Mac.zip.part01",
+      "path": "versions/0.9.1/Prime-for-Mac.zip.part01",
       "size": 52428800,
-      "sha256": "0133f3a6045638652da28e5421cd7cb8f0a88d5e6c36b836f11ecdbf582abc44"
+      "sha256": "12c4476423f8fb027090209a279a147d665843454379bbcd42328660144c701c"
     },
     {
-      "path": "versions/0.9.0/Prime-for-Mac.zip.part02",
-      "size": 18820443,
-      "sha256": "348c1851a48dbd6ee67f4f7cdd186aad898a506b14717c768edd8984cd97b0a9"
+      "path": "versions/0.9.1/Prime-for-Mac.zip.part02",
+      "size": 18822159,
+      "sha256": "5a7deb6b0b7cf5ebb2b0246387047746c0f85d53cf0f52aaf33c30ba040a889a"
     }
   ]
 }
