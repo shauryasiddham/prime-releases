@@ -1,24 +1,24 @@
 {
-  "version": "0.8.3",
-  "released": "2026-11-25T06:31:57.215Z",
-  "notes": "SponsorBlock's skip button now shows on YouTube.",
-  "size": 123698381,
-  "sha256": "fd50bf167037b6aa3eaedad90eaeac7d145b789a54d0c5e05793cd634dc1384a",
+  "version": "0.9.0",
+  "released": "2026-11-27T06:03:51.647Z",
+  "notes": "Claude is now in Prime: add the official Claude in Chrome extension and press ⌘E. The local AI assistant is removed.",
+  "size": 123678043,
+  "sha256": "4ff0d90e692dd57f0d64c3369bbe710eb12a9a8c5b6416835e56d48e0355d2d8",
   "parts": [
     {
-      "path": "versions/0.8.3/Prime-for-Mac.zip.part00",
+      "path": "versions/0.9.0/Prime-for-Mac.zip.part00",
       "size": 52428800,
-      "sha256": "32d4919a5ed38def6a76326096251cbcbb2bb711ad9a97f23807fb25c37bbaa2"
+      "sha256": "aa0c5a49c8663d7d953bb7e929fd22999f80a6817303930f8d021533a26dc03a"
     },
     {
-      "path": "versions/0.8.3/Prime-for-Mac.zip.part01",
+      "path": "versions/0.9.0/Prime-for-Mac.zip.part01",
       "size": 52428800,
-      "sha256": "18613455764fc2ec8de0c528059f3581d6090610525cf5e77c89d04f921cc3f7"
+      "sha256": "0133f3a6045638652da28e5421cd7cb8f0a88d5e6c36b836f11ecdbf582abc44"
     },
     {
-      "path": "versions/0.8.3/Prime-for-Mac.zip.part02",
-      "size": 18840781,
-      "sha256": "b0cf5f75be33d1ef75ad6bf3fa808ecff99ec5b3bae561d23d249ed9ac7d02db"
+      "path": "versions/0.9.0/Prime-for-Mac.zip.part02",
+      "size": 18820443,
+      "sha256": "348c1851a48dbd6ee67f4f7cdd186aad898a506b14717c768edd8984cd97b0a9"
     }
   ]
 }
