@@ -1,24 +1,24 @@
 {
-  "version": "0.9.1",
-  "released": "2026-11-27T07:00:18.142Z",
-  "notes": "Fixes Claude saying it can't reach Claude in Chrome after you sign in. Settings → Claude has a new Copy report button if something still goes wrong.",
-  "size": 123679759,
-  "sha256": "85c0d9be9234ef444f389e417b4a5caa717e6a82b6c92a03d2fcf6f38e1d8d7c",
+  "version": "0.9.2",
+  "released": "2026-11-27T07:13:00.948Z",
+  "notes": "Fixes Claude's panel saying “Can’t reach Claude in Chrome”.",
+  "size": 123680890,
+  "sha256": "b1ce20beb3bb1d4ac2558da20a79ec13445ca0ec3e96b92ffa21e3213bfc4179",
   "parts": [
     {
-      "path": "versions/0.9.1/Prime-for-Mac.zip.part00",
+      "path": "versions/0.9.2/Prime-for-Mac.zip.part00",
       "size": 52428800,
-      "sha256": "1b41ed54993caebdd29f0012f412850abc0622f234eedc460a66a065d4759e24"
+      "sha256": "3150257ecec9f325bfe3094b5303925e0e46656ac7445418f4eff5c14ccb77a8"
     },
     {
-      "path": "versions/0.9.1/Prime-for-Mac.zip.part01",
+      "path": "versions/0.9.2/Prime-for-Mac.zip.part01",
       "size": 52428800,
-      "sha256": "12c4476423f8fb027090209a279a147d665843454379bbcd42328660144c701c"
+      "sha256": "9518aa72ff58afc5c16e1fd3f1bd99b70c3bcd7e944364e78f573f8c943e6bbe"
     },
     {
-      "path": "versions/0.9.1/Prime-for-Mac.zip.part02",
-      "size": 18822159,
-      "sha256": "5a7deb6b0b7cf5ebb2b0246387047746c0f85d53cf0f52aaf33c30ba040a889a"
+      "path": "versions/0.9.2/Prime-for-Mac.zip.part02",
+      "size": 18823290,
+      "sha256": "10eeaae3e822b258ff6c42e19c42ec619234094fa3c72cad5d4611ae48e00338"
     }
   ]
 }
