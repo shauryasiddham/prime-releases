@@ -1,24 +1,24 @@
 {
-  "version": "0.9.3",
-  "released": "2026-11-28T08:22:52.831Z",
-  "notes": "Bookmarks: click the star in the address bar; your bookmarks show in a bar under it.",
-  "size": 123682180,
-  "sha256": "2b1615d8e269a3d7dba01756ed3bd02cb2c0fa384c16984c36f3318c46847f03",
+  "version": "0.9.4",
+  "released": "2026-11-28T08:28:04.731Z",
+  "notes": "The bookmark star is always in the address bar now (and in the sidebar in Minimal style).",
+  "size": 123682218,
+  "sha256": "5474b3627658ab7556aa632943ca66640de4957a0d59ac1b223c48a0986cb71b",
   "parts": [
     {
-      "path": "versions/0.9.3/Prime-for-Mac.zip.part00",
+      "path": "versions/0.9.4/Prime-for-Mac.zip.part00",
       "size": 52428800,
-      "sha256": "2764f3f077e6691b2c4e05f8c14f50e849163c8949543280623051fdbb931aaa"
+      "sha256": "c9bd1721413a1769984ac3ac3957cd96c8167a827262c691c0c591512717c0ff"
     },
     {
-      "path": "versions/0.9.3/Prime-for-Mac.zip.part01",
+      "path": "versions/0.9.4/Prime-for-Mac.zip.part01",
       "size": 52428800,
-      "sha256": "b7ae5abf4bf65ac79a56af01d1ef547430e6a39755198c86751d7f3fd936028b"
+      "sha256": "8d395fdf59af3074275b25144a9f84a2a727f98c3a2b6471fc0aa6c04761b493"
     },
     {
-      "path": "versions/0.9.3/Prime-for-Mac.zip.part02",
-      "size": 18824580,
-      "sha256": "4e0cc853cf7e54324143af524fbecc53934275a2e07f7f73e3f6cea0f10d942e"
+      "path": "versions/0.9.4/Prime-for-Mac.zip.part02",
+      "size": 18824618,
+      "sha256": "ac3fa30bd806f4fa5dc219861c074add9c2a3fe5656b8fc5457f140bdcc5fe42"
     }
   ]
 }
