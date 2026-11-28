@@ -1,24 +1,24 @@
 {
-  "version": "0.9.2",
-  "released": "2026-11-27T07:13:00.948Z",
-  "notes": "Fixes Claude's panel saying “Can’t reach Claude in Chrome”.",
-  "size": 123680890,
-  "sha256": "b1ce20beb3bb1d4ac2558da20a79ec13445ca0ec3e96b92ffa21e3213bfc4179",
+  "version": "0.9.3",
+  "released": "2026-11-28T08:22:52.831Z",
+  "notes": "Bookmarks: click the star in the address bar; your bookmarks show in a bar under it.",
+  "size": 123682180,
+  "sha256": "2b1615d8e269a3d7dba01756ed3bd02cb2c0fa384c16984c36f3318c46847f03",
   "parts": [
     {
-      "path": "versions/0.9.2/Prime-for-Mac.zip.part00",
+      "path": "versions/0.9.3/Prime-for-Mac.zip.part00",
       "size": 52428800,
-      "sha256": "3150257ecec9f325bfe3094b5303925e0e46656ac7445418f4eff5c14ccb77a8"
+      "sha256": "2764f3f077e6691b2c4e05f8c14f50e849163c8949543280623051fdbb931aaa"
     },
     {
-      "path": "versions/0.9.2/Prime-for-Mac.zip.part01",
+      "path": "versions/0.9.3/Prime-for-Mac.zip.part01",
       "size": 52428800,
-      "sha256": "9518aa72ff58afc5c16e1fd3f1bd99b70c3bcd7e944364e78f573f8c943e6bbe"
+      "sha256": "b7ae5abf4bf65ac79a56af01d1ef547430e6a39755198c86751d7f3fd936028b"
     },
     {
-      "path": "versions/0.9.2/Prime-for-Mac.zip.part02",
-      "size": 18823290,
-      "sha256": "10eeaae3e822b258ff6c42e19c42ec619234094fa3c72cad5d4611ae48e00338"
+      "path": "versions/0.9.3/Prime-for-Mac.zip.part02",
+      "size": 18824580,
+      "sha256": "4e0cc853cf7e54324143af524fbecc53934275a2e07f7f73e3f6cea0f10d942e"
     }
   ]
 }
